@@ -1,6 +1,6 @@
-##__An exercise for the advanced CSS selectors.__
+## __An exercise for the advanced CSS selectors.__
 
-###You are supposed to do the following styling to the given HTML code in CSS:
+### You are supposed to do the following styling to the given HTML code in CSS:
 - Every even list item should have text color of green;
 - The third list item should have a background color of light blue;
 - The first list item should have a top border, 1px in width, solid and green;
